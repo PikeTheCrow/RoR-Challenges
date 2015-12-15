@@ -5,3 +5,9 @@ Set out a bunch of Challenges to complete in the attempt to up-skill my Ruby on 
 
 Intial challenge:
 A link aggrgating website - similar to reddit or hacker and others
+Sign-in or Out
+Submit a link
+Vote up or down
+Commenting on submissions
+
+
