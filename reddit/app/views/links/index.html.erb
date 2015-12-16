@@ -18,8 +18,6 @@
         <% if link.user == current_user %>
           <td><%= link_to 'Edit', edit_link_path(link) %></td>
           <td><%= link_to 'Destroy', link, method: :delete, data: { confirm: 'Are you sure?' } %></td>
-          <br />
-          <%= link_to 'New Link', new_link_path %>
         <% else %>
           <td><%= link_to 'Sign Up to Post', new_user_registration_path %></td>
         <% end %>
