@@ -11,15 +11,15 @@ Vote up or down
 Commenting on submissions
 
 To follow: 
-  A Blog
-  Recipe Box / book
-  Pinterest Clone
-  Movie review and rating (with search functionalty)
-  ToDo App
-  Job Board
-  Workout Log
-  Wikipedia Clone
-  A Forum
-  Notebook App
-  Dribble Clone
+A Blog
+Recipe Box / book
+Pinterest Clone
+Movie review and rating (with search functionalty)
+ToDo App
+Job Board
+Workout Log
+Wikipedia Clone
+A Forum
+Notebook App
+Dribble Clone
 
